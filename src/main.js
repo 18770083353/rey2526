@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 // import { Button, Field } from 'vant'
-// import 'amfe-flexible'
+import 'amfe-flexible'
 // import Vant from 'vant'
 // import 'vant/lib/index.css'
 
